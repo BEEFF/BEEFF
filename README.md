@@ -8,7 +8,7 @@
 - 📫 How to reach me: Give us a shout on [Linkedin](https://www.linkedin.com/in/thomas-okeeffe-ml/)!
 - ⚡ If your bored, go checkout my [soundcloud](https://soundcloud.com/djkeefdj). 
 
-### :octocat: Github Statistics
+### :octocat: Yes, I like Python...
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEEFF&layout=compact&hide=html&theme=radical" alt="BEEFF"/>
 </p>
